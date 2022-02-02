@@ -1,6 +1,6 @@
 ### Hello there i am ANIL👋
 
-## i'm a Husband, Father and Machine learning, Deep learning enthusiast !
+## i'm a Machine learning & Deep learning enthusiast !
 - 🔭 I’m currently working on  machine learning projects with Ineuron.
 - 🌱 I’m currently learning evrything regarding machine learning and deep learning.
 - 👯 I’m looking to collaborate on projects.
